@@ -1,5 +1,4 @@
 LangGraph_quickstart
-Here are the core ideas behind each LangGraph topic you listed:
 
 1. Start with a prebuilt agent
 
